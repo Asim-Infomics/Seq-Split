@@ -90,6 +90,3 @@ Asim Mehmood
 
 🪪 License
 MIT License © 2025 Asim Mehmood
-
-yaml
-Copy code
